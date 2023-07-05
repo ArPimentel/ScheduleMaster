@@ -1,0 +1,22 @@
+{
+  "listes": [
+    {
+      "id": 1,
+      "nom": "Mes TODO"
+    },
+    {
+      "id": 2,
+      "nom": "Ma 2nd liste"
+    }
+  ],
+  "todos": [
+    {
+      "nom": "kakakakaakakakak",
+      "description": "akakakkaka",
+      "date": "akakakaka",
+      "liste_id": 1,
+      "id": 3,
+      "termine": false
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-05-04T15:54:23.022+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/todos"
+}
